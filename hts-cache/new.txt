@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:28:42	69/69	---M--	200	added ('OK')	text/plain	etag:%2295ecd6400e14c0663784ffabe90545db%22	https://app.tinyman.org/robots.txt		(from )
+10:28:43	4255/4255	---M--	200	added ('OK')	text/html	etag:%22abe2eb418da16a523e549a614e5fdb4d%22	https://app.tinyman.org/	C:/My%20Web%20Sites/apptinymannew/app.tinyman.org/index.html	(from )
